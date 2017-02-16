@@ -1,0 +1,27 @@
+h1.biggy {
+  font-style: italic;
+  font-weight: normal;
+  font-family: 'Playfair Display', serif;
+  font-size: 8em;
+  margin: 0;
+  padding-top: 0.5em;
+}
+p {
+  font-family: 'Lato', sans-serif;
+}
+p.reg {
+  font-size: 1.3em;
+  line-height: 1.5em;
+}
+/* uppercase line above a normal paragraph */
+p.tease {
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  padding: 1.5em 0 0.8em 0;
+}
+/* adding to Bootstrap built-in class btn applied to a */
+a.btn {
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  padding: 8px 12px;
+}

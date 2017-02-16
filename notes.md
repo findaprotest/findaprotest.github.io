@@ -1,4 +1,6 @@
-# 15 Feb 2017
+# Design Notes
+
+## 15 Feb 2017
 
 Bootstrap is vanilla and untouched.
 
